@@ -8,7 +8,7 @@ on:
     paths:
       - 'simple/**'
   pull_request:
-    branches: [ main ]
+    branches: [ test ]
     paths:
       - 'simple/**'
 
